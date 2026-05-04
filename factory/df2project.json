@@ -1,0 +1,15 @@
+{
+	"name": "df2project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb8fe81e-a1a1-4d59-a9e2-092c01edea92",
+		"tenantId": "2119b84c-6a77-4c09-843d-4852f2d0dc76"
+	}
+}
